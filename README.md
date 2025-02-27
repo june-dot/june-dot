@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@jjuneeeeeeee-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jjuneeeeeeee/)](https://instagram.com/_jjuneeeeeeee)
 [![Gmail Badge](https://img.shields.io/badge/-junekim2110-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:junekim2110@gmail.com)](mailto:junekim2110@gmail.com)
 
-I am _June Kim_.  I'm a Seattlelite passionate about understanding meaningful connections between technology and human well-being. My background is in Psychology and Education at University of Washington and nonprofit in homelessness. Currently, I’m on an exciting journey to bridge the gap between empathy and AI as I pursue beginner's courses on Python and Master's in HCI.
+I am _June Kim_.  I'm a Seattlelite passionate about understanding meaningful connections between technology and human well-being. My background is in Psychology and Education at University of Washington and nonprofit in homelessness. Currently, I’m on an exciting journey to bridge the gap between empathy and AI as I pursue beginner's courses on Python and MA in HCI.
 
 ### 🌱 What am I learning? 
 
